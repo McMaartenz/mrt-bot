@@ -1,0 +1,17 @@
+{
+  "name": "mrtbot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "scripts": {
+    "start": "npx ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maarten van Keulen",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
